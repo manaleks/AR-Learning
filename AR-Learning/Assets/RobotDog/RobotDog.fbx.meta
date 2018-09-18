@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: cedae80c75647bf4eb99839ecc9dfa88
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body
+    100004: body 1
+    100006: Bone
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.003_end
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.008_end
+    100022: Bone.009
+    100024: Bone.010
+    100026: Bone.011
+    100028: Bone.011_end
+    100030: Bone.015
+    100032: Bone.016
+    100034: Bone.017
+    100036: Bone.017_end
+    100038: floor
+    100040: foot
+    100042: foot 1
+    100044: foot.001
+    100046: foot.002
+    100048: foot.002 1
+    100050: foot.002_end
+    100052: foot.003
+    100054: foot.003 1
+    100056: foot.003_end
+    100058: foot.005
+    100060: foot.005_end
+    100062: foot_end
+    100064: leg.bottom
+    100066: leg.bottom.001
+    100068: leg.bottom.002
+    100070: leg.bottom.003
+    100072: leg.top
+    100074: leg.top.001
+    100076: leg.top.002
+    100078: leg.top.003
+    100080: //RootNode
+    100082: root
+    100084: shoulder
+    100086: shoulder.001
+    100088: shoulder.002
+    100090: shoulder.003
+    400000: Armature
+    400002: body
+    400004: body 1
+    400006: Bone
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.003_end
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.008_end
+    400022: Bone.009
+    400024: Bone.010
+    400026: Bone.011
+    400028: Bone.011_end
+    400030: Bone.015
+    400032: Bone.016
+    400034: Bone.017
+    400036: Bone.017_end
+    400038: floor
+    400040: foot
+    400042: foot 1
+    400044: foot.001
+    400046: foot.002
+    400048: foot.002 1
+    400050: foot.002_end
+    400052: foot.003
+    400054: foot.003 1
+    400056: foot.003_end
+    400058: foot.005
+    400060: foot.005_end
+    400062: foot_end
+    400064: leg.bottom
+    400066: leg.bottom.001
+    400068: leg.bottom.002
+    400070: leg.bottom.003
+    400072: leg.top
+    400074: leg.top.001
+    400076: leg.top.002
+    400078: leg.top.003
+    400080: //RootNode
+    400082: root
+    400084: shoulder
+    400086: shoulder.001
+    400088: shoulder.002
+    400090: shoulder.003
+    2100000: plastic
+    2100002: metal
+    2100004: floor
+    2300000: body 1
+    2300002: floor
+    2300004: foot 1
+    2300006: foot.001
+    2300008: foot.002 1
+    2300010: foot.003 1
+    2300012: leg.bottom
+    2300014: leg.bottom.001
+    2300016: leg.bottom.002
+    2300018: leg.bottom.003
+    2300020: leg.top
+    2300022: leg.top.001
+    2300024: leg.top.002
+    2300026: leg.top.003
+    2300028: shoulder
+    2300030: shoulder.001
+    2300032: shoulder.002
+    2300034: shoulder.003
+    3300000: body 1
+    3300002: floor
+    3300004: foot 1
+    3300006: foot.001
+    3300008: foot.002 1
+    3300010: foot.003 1
+    3300012: leg.bottom
+    3300014: leg.bottom.001
+    3300016: leg.bottom.002
+    3300018: leg.bottom.003
+    3300020: leg.top
+    3300022: leg.top.001
+    3300024: leg.top.002
+    3300026: leg.top.003
+    3300028: shoulder
+    3300030: shoulder.001
+    3300032: shoulder.002
+    3300034: shoulder.003
+    4300000: foot
+    4300002: body
+    4300004: shoulder
+    4300006: leg.top
+    4300008: leg.bottom
+    4300010: shoulder.001
+    4300012: leg.top.001
+    4300014: leg.bottom.001
+    4300016: shoulder.003
+    4300018: leg.top.003
+    4300020: leg.bottom.003
+    4300022: shoulder.002
+    4300024: leg.top.002
+    4300026: leg.bottom.002
+    4300028: foot.001
+    4300030: foot.003
+    4300032: foot.002
+    4300034: floor
+    7400000: ArmatureAction
+    7400002: ArmatureAction.002
+    7400004: ArmatureAction.001
+    7400006: Armature|ArmatureAction
+    7400008: Armature|ArmatureAction.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
