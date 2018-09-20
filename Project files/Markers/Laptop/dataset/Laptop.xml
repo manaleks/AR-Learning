@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Laptop"/>
+</Tracking>
+
+<Assembly name="Laptops_assembly">
+<Part name="Laptop" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.154041 0.22235 0.291131" rotation="AD: -0.04557763704996172 -1.0335200315271431 3.8996314690026104 179.657">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
